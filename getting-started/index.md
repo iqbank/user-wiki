@@ -63,10 +63,12 @@ To log in to your IQBank account, follow these steps:
     ![Login page]({{ "/assets/images/getting-started/login.png" | relative_url }})
     {: .guide-image .guide-image--small }
 
-3. Click the **Sign In** button. Upon successful login, you will be directed to the [Explore Course](https://iqbank.teach.cs.toronto.edu/courses)page where you can access the course that your account is enrolled in. 
+3. Click the **Sign In** button. Upon successful login, you will be directed to the [Explore Course](https://iqbank.teach.cs.toronto.edu/courses) page where you can access the course that your account is enrolled in. 
 
     ![Explore Courses page]({{ "/assets/images/getting-started/explore-courses.png" | relative_url }})
     {: .guide-image .guide-image--medium }
+
+If you are experiencing login issues, please contact the IQBank team (see: [Contact & Support]({{ "/contact/" | relative_url }})).
 
 ## Changing Your One-Time Password
 
