@@ -2,10 +2,16 @@
 .guide-image {
   display: block;
   width: 100%;
-  height: auto;
   margin: 1.5rem auto 0.5rem;
-  border: 1px solid $border-color;
-  border-radius: 6px;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.guide-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
 }
 
 .guide-image--small {
@@ -21,12 +27,15 @@
 }
 
 .guide-caption {
-  margin-top: 0;
-  margin-bottom: 1.5rem;
+  max-width: 900px;
+  margin: 0.5rem auto 2rem;
+  padding: 0 1rem;
   color: $body-text-color;
   font-size: 0.875rem;
-  font-style: italic;
+  font-weight: 400;
+  line-height: 1.5;
   text-align: center;
+  font-style: italic;
 }
 
 // Make short pages extend to the bottom of the viewport.
