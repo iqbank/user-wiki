@@ -6,3 +6,7 @@ _site/
 
 # OS files
 .DS_Store
+
+# Locally used Gem files
+Gemfile
+Gemfile.lock

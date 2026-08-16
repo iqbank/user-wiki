@@ -16,7 +16,7 @@ Access to IQBank is provided through courses registered on the platform.
 
 ---
 
-## Courses Available
+## Courses available
 
 As of August 7th, 2026, IQBank is currently available for the following courses at participating universities:
 
@@ -35,15 +35,15 @@ As of August 7th, 2026, IQBank is currently available for the following courses 
 >
 > Instructors interested in using IQBank can contact [sunk@cs.toronto.edu](mailto:sunk@cs.toronto.edu) to discuss making IQBank available for use at their institution or course. 
 
-## Student Access
+## Student access
 
 To access IQBank, students need to use their registered account. If you do not have an account, please contract your course instructor.
 
-## Instructor Access
+## Instructor access
 
 Contact [sunk@cs.toronto.edu](mailto:sunk@cs.toronto.edu) to learn more about setting up your instructor account.
 
-## Logging In
+## Logging in
 
 To log in to your IQBank account, follow these steps:
 
@@ -68,8 +68,8 @@ To log in to your IQBank account, follow these steps:
     ![Explore Courses page]({{ "/assets/images/getting-started/explore-courses.png" | relative_url }})
     {: .guide-image .guide-image--medium }
 
-If you are experiencing login issues, please contact the IQBank team (see: [Contact & Support]({{ "/contact/" | relative_url }})).
+If you are having trouble logging in, please [contact]({{ "/contact/" | relative_url }}) the IQBank team
 
-## Changing Your One-Time Password
+## Changing your one-time password
 
 After logging in to your account for the first time, you should change your one-time password to a secure password of your choice. Please refer to section **TBD** for more details.
