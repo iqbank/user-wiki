@@ -1,0 +1,8 @@
+# Jekyll-generated output
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# OS files
+.DS_Store
