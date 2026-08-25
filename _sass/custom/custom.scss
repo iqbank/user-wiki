@@ -53,6 +53,7 @@
 .main-content-wrap {
   display: flex;
   flex: 1 0 auto;
+  flex-direction: column;
   width: 100%;
 }
 
@@ -63,7 +64,6 @@
   width: 100%;
 }
 
-// Let the article consume the available space so the footer stays below it.
 .main-content > main {
   flex: 1 0 auto;
 }
