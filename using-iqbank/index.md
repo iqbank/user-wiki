@@ -1,6 +1,8 @@
 ---
 layout: default
+title: Using IQBank
 nav_order: 4
+has_children: true
 ---
 # Using IQBank
-Page to talk about using IQBank
+This page introduces the core IQBank features available to both students and instructors. 
