@@ -1,6 +1,8 @@
 ---
 layout: default
+title: Instructor Guide
 nav_order: 5
+has_children: true
 ---
 # Instructor Guide
-Place to talk about Instructor specific site features
+This page outlines site features and actions for course instructors and teaching assistants (TAs).
