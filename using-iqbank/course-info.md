@@ -14,8 +14,14 @@ The Course Info page shows you who is teaching the course and what topics its co
 
 ### Course Team
 
-The Course Team panel lists the course's instructors and teaching assistants. Each group displays up to 10 members at a time. If a group has more than 10 members, a "Load more" option appears under that group. If both groups have no members, the panel reads *"No staff members assigned to this course"*.
+The Course Team panel lists the course's instructors and teaching assistants. Each group displays up to 10 members at a time. 
+
+If a group has more than 10 members, a *"Load more"* option appears under that group. 
+
+If both groups have no members, the panel reads *"No staff members assigned to this course"*.
 
 ### Course Topics
 
-The Course Topics panel lists the topic tags used to categorize collection questions in the course, such as the tags you can filter by on the [course homepage]({{ "/using-iqbank/#viewing-course-home-page" | relative_url }}). If no topics have been created yet, the panel reads *"No topics created for this course"*.
+The Course Topics panel lists the topic tags used to categorize collection questions in the course, such as the tags you can filter by on the [course homepage]({{ "/using-iqbank/course-homepage.html" | relative_url }}).
+
+If no topics have been created yet, the panel reads *"No topics created for this course"*.
