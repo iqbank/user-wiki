@@ -37,33 +37,3 @@
   text-align: center;
   font-style: italic;
 }
-
-// Make short pages extend to the bottom of the viewport.
-.main {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-}
-
-.main-header {
-  position: relative;
-  z-index: 2;
-}
-
-.main-content-wrap {
-  display: flex;
-  flex: 1 0 auto;
-  flex-direction: column;
-  width: 100%;
-}
-
-.main-content {
-  display: flex;
-  flex: 1 1 auto;
-  flex-direction: column;
-  width: 100%;
-}
-
-.main-content > main {
-  flex: 1 0 auto;
-}

@@ -15,7 +15,7 @@ has_children: true
 
 Instructors can like user responses in the **Collections** or **General Discussions** page to endorse content that they consider useful or helpful to other students. 
 
-Once an instructor likes a user's response, it would display an **“Instructor Endorsed”** label.
+Once an instructor likes a user's response, it would be annotated with an **“Instructor Endorsed”** label.
 
 ![Instructor Endorsed Response]({{ "/assets/images/instructor-guide/instructor-endorsed-response.png" | relative_url }})
 {: .guide-image .guide-image--large }

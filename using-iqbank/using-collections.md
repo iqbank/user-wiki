@@ -30,3 +30,6 @@ Select a collection to view its individual questions. While viewing a question y
 
 ![Viewing course collection]({{ "/assets/images/using-iqbank/view-course-collection.png" | relative_url }})
 {: .guide-image .guide-image--medium }
+
+*Showing Question 1 of the CSC369 December 2019 Final*
+{: .guide-caption }

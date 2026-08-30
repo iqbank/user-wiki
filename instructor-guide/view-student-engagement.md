@@ -14,7 +14,7 @@ nav_order: 3
 
 The **Student Engagement** page opens a dashboard for monitoring student activity and engagement in the course.
 
-Students can be filtered by Engagement Score (default selection), by Likes, or by Endorsements. For more information about endorsements, see [Endorsing Student Contributions]({{ "/instructor-guide/endorse-student-contributions.html" | relative_url }}).
+Students can be filtered by Engagement Score (default selection), by Likes, or by Endorsements. For more information about endorsements, see [Endorse Student Contributions]({{ "/instructor-guide/endorse-student-contributions.html" | relative_url }}).
 
 ![Student Engagement page]({{ "/assets/images/instructor-guide/student-engagement.png" | relative_url }})
 {: .guide-image .guide-image--medium }

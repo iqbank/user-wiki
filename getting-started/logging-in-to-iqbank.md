@@ -33,4 +33,4 @@ If you are having trouble logging in, please [contact]({{ "/contact/" | relative
 
 ## Changing your one-time password
 
-After logging in to your account for the first time, you should change your one-time password to a secure password of your choice. For the instructions, please see [Change/Reset Password]({{ "/account-management/change-password.html" | relative_url }}).
+After logging in to your account for the first time, you should change your one-time password to a secure password of your choice. For the instructions, please see [Change Password]({{ "/account-management/change-password.html" | relative_url }}).

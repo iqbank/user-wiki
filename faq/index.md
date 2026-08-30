@@ -9,4 +9,4 @@ A: It has not been uploaded onto IQBank, please contact your course instructor.
 
 ### Q: *As a student or instructor, I have an IQBank account but forgotten my password! What can I do?*
 
-A: Password resets are handled by the IQBank team. See [Resetting Your Password]({{ "/account-management/reset-password.html" | relative_url }}) for further instructions.
+A: Password resets are handled by the IQBank team. See [Reset Password]({{ "/account-management/reset-password.html" | relative_url }}) for further instructions.
