@@ -2,21 +2,22 @@
 
 This repository contains the IQBank user documentation site for students and instructors. 
 
-It is published as a Github Page static site and built with Jekyll site using the [Just the Docs](https://just-the-docs.com/) theme.
+It is published as a Github Page static site and built with Jekyll using the [Just the Docs](https://just-the-docs.com/) theme.
 
 ## Repository Structure
 
-- [index.md](index.md) — Documentation home page
-- Content folders — markdown pages for the website’s content sections. This includes:
+- [index.md](index.md): Documentation home page
+- **Content folders**: Markdown pages for the website’s content sections. This includes:
     - [getting-started](getting-started)
     - [account-management](account-management)
     - [using-iqbank](using-iqbank)
     - [instructor-guide](instructor-guide)
     - [contact](contact)
     - [faq](faq)
-- [assets](assets) — Folder containing static images. Paths are named based on which website section the image would belong to 
-- [_sass]( _sass ) — custom theme styling overrides
-- [_config.yml](_config.yml) — Jekyll configuration and theme settings
+- [assets](assets): Folder containing static images. Paths are named based on which website section the image would belong to 
+- [_sass]( _sass ): Contains several `.scss` file defining custom theme styling overrides.
+- [_config.yml](_config.yml): Jekyll configuration and theme settings
+- [Gemfile.txt](Gemfile.txt): Txt file containing content used to create a Gemfile (used to run website locally)
 
 ## How to compile site locally
 
