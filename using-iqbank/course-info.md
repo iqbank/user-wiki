@@ -22,6 +22,6 @@ If both groups have no members, the panel reads *"No staff members assigned to t
 
 ### Course Topics
 
-The Course Topics panel lists the topic tags used to categorize collection questions in the course, such as the tags you can filter by on the [course homepage]({{ "/using-iqbank/course-homepage.html" | relative_url }}).
+The Course Topics panel lists the topic tags used to categorize collection questions in the course. These are the same ones you use to filter for collections questions on the [course homepage]({{ "/using-iqbank/course-homepage.html" | relative_url }}).
 
 If no topics have been created yet, the panel reads *"No topics created for this course"*.

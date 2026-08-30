@@ -8,7 +8,7 @@ nav_order: 1
 
 ## Courses available
 
-As of August 7th, 2026, IQBank is currently available for the following courses at participating universities:
+IQBank is currently available at participating universities. Click the dropdowns below to view the supported courses:
 
 <details markdown="block">
 <summary><strong>University of Toronto</strong></summary>

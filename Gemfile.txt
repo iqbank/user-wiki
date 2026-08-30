@@ -1,0 +1,5 @@
+# Gemfile 
+# Purpose: Used to define the Ruby packages / dependencies needed to compile Github page site locally via Jekyll.
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins

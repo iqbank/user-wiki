@@ -11,6 +11,14 @@ nav_order: 5
 >
 > This feature is only available to course instructors.
 
+## Table of Contents
+- [Bulk Enroll Users by CSV](#bulk-enroll-users-by-csv)
+  - [CSV Format](#csv-format)
+  - [Upload CSV](#upload-csv)
+  - [Upload Results](#upload-results)
+- [Individually Enrolling a User](#individually-enrolling-a-user)
+- [Managing Enrolled Users](#managing-enrolled-users)
+
 ## Bulk Enroll Users by CSV 
 
 The **Bulk Student Import** page allows instructors to enroll a list of users in a course using information provided in a CSV file. 
@@ -65,7 +73,7 @@ In the **Add User to Course** window, complete the following fields, then click 
 - **UTORid** (eg: `doejohn`)
 - **Email address** (eg: `john.doe@mail.utoronto.ca`)
 - **Course role** (one of `STUDENT`, `TA`, or `INSTRUCTOR`)
-- **(Optional) From Date and To Date**: The period (YYYY-MM-DD) the role is active for. Leave them blank for an enrollment with no end date.
+- **(Optional) From Date and To Date**: The period (YYYY-MM-DD) the role is active for. Leave these fields blank for an enrollment with no start and end date.
 - **Other constraints**:
     - Both the UTORid and the email must match the same existing IQBank account. If they do not, a message will display: *"No existing user matches that UTORid and email."*
     - Adding a student to a course does not create an IQBank account for them. Please see [Accessing IQBank]({{ "/getting-started/accessing-iqbank.html" | relative_url }}) for details on obtaining an account.

@@ -11,11 +11,15 @@ has_children: true
 {: .note-title }
 > Note:
 >
-> The **Manage Course** page is visible only to course instructors.
+> This page is visible only to course instructors.
 
 The **Manage Course** page allows instructors to monitor student engagement, create collections, and manage course enrollment.
 
-Course topics are managed separately through the **Course Info** page. See [Managing Course Topics]({{ "/instructor-guide/manage-course-topics.html" | relative_url }}).
+Course topics are managed separately through the **Course Info** page. See [Manage Course Topics]({{ "/instructor-guide/manage-course-topics.html" | relative_url }}).
+
+## Table of Contents
+- [Opening the Manage Course Page](#opening-the-manage-course-page)
+- [Management Tools](#management-tools)
 
 ## Opening the Manage Course Page
 
@@ -36,4 +40,4 @@ Use the **Management Tools** panel to access the following features:
 
 - [Student Engagement]({{ "/instructor-guide/view-student-engagement.html" | relative_url }}): Monitor student activity and engagement.
 - [Upload Collections]({{ "/instructor-guide/upload-course-collections.html" | relative_url }}): Upload and configure collections.
-- [Managing User Enrollment]({{ "/instructor-guide/managing-student-enrollment.html" | relative_url }}): Bulk or individually enroll users.
+- [Manage User Enrollment]({{ "/instructor-guide/manage-student-enrollment.html" | relative_url }}): Bulk or individually enroll users.
